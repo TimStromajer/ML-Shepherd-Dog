@@ -1,0 +1,6 @@
+sheep count; dog count; collection time; herding time
+160; 1; /; /
+160; 1; /; /
+160; 1; /; /
+160; 1; /; /
+160; 1; /; /

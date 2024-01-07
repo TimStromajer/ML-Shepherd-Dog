@@ -1,0 +1,1 @@
+sheep count; dog count; collection time; herding time

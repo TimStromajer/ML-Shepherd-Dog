@@ -1,0 +1,3 @@
+sheep count; dog count; collection time; herding time
+2; 2; 16.73281; 58.1348
+2; 2; 22.65069; 67.68728
